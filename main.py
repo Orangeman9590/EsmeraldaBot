@@ -8,7 +8,7 @@ responses= ['Yes', 'No', 'Highly Likely', 'Maybe', 'Not likely', 'My sources say
             'Thanks for the coin, but no', 'Yummy coin, and the answer is yes', 'Hmmmm, Yes', 'My crystal ball says no']
 
 
-TOKEN = 'NzMxNjI0NDIyMTY2ODg4NTgw.Xwo0xA.OLRtLzyJSJ0EfTmC1UvDX5OKnyM'
+TOKEN = ''
 
 client = discord.Client()
 
